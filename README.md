@@ -15,3 +15,9 @@ LittlePrincess MyLittlePrincess=new LittlePrincess(){
 ```
  
 ![](http://chuantu.biz/t6/109/1508758388x2073919800.jpg)
+
+小公举可爱不，还有鼻子哟，那么我的小公举，长大以后变成大公举是什么样子呢！
+
+biubiubiu 变变变
+
+![](http://chuantu.biz/t6/109/1508760197x994048254.jpg)
