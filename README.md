@@ -1,4 +1,5 @@
-## My Little Princess
+
+cu## My Little Princess
 噔噔噔噔，我们的小公举到底是谁呀！
 
 到底是谁啊！
@@ -21,3 +22,11 @@ LittlePrincess MyLittlePrincess=new LittlePrincess(){
 biubiubiu 变变变
 
 ![](http://chuantu.biz/t6/109/1508760197x994048254.jpg)
+
+错了错了错了,画风不对呀！
+
+```C#
+BigBeauty MyBigBeauty=new BigBeauty();
+```
+
+![](http://chuantu.biz/t6/109/1508760428x994048254.jpg)
