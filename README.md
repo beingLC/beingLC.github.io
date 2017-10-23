@@ -1,5 +1,4 @@
-
-cu## My Little Princess
+## My Little Princess
 噔噔噔噔，我们的小公举到底是谁呀！
 
 到底是谁啊！
